@@ -1,4 +1,4 @@
-# Ex.No: 10 Learning – Use Supervised Learning  
+# Ex.No: 13 Machine Learning – Use Supervised Learning  
 ### DATE:                                                                            
 ### REGISTER NUMBER :212222040022 
 ### AIM: 
@@ -69,7 +69,7 @@ def recommend_cars(budget, fuel_type=None, transmission=None):
 print(recommend_cars(budget=500000, fuel_type=1, transmission=1).head())
 ```
 ### Output:
-
+![image](https://github.com/user-attachments/assets/105aaa0c-c78d-4ec0-a318-89a9d88eb1b1)
 
 ### Result:
 Thus the system was trained successfully and the prediction was carried out.
